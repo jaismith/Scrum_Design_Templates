@@ -34,4 +34,4 @@
 
 ---
 
-#### *Note: [hackmd.io](hackmd.io) is a great collaborative tool for writing .md files, it allows multiple users to edit a markdown document simultaneously with a live preview!*
+#### *Note: [hackmd.io](https://hackmd.io) is a great collaborative tool for writing .md files, it allows multiple users to edit a markdown document simultaneously with a live preview!*
