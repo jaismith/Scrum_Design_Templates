@@ -2,7 +2,7 @@
 **Jai Smith (adapted from [Dartmouth CS50](https://www.cs.dartmouth.edu/~cs50/))**
 
 ---
-*Design and Implementation documentation is a great way to keep your team in sync, and a great way to ensure project components work well together. Although writing them can feel tedious, the time you spend here will save you far more down the road (when your modules interface efficiently and effectively with rest of the team's work).*
+Design and Implementation documentation is a great way to keep your team in sync, and a great way to ensure project components work well together. Although writing them can feel tedious, the time you spend here will save you far more down the road (when your modules interface efficiently and effectively with rest of the team's work).
 
 ## Documents
 
