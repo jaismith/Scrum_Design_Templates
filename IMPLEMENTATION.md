@@ -28,7 +28,7 @@
 
 *How is your module managing **system resources**? Are you **efficiently managing memory** (making sure not to hold on to it longer than necessary)? If your user refreshes a view five times in a row, for example, how are you making sure you don't end up with five copies of the returned data?*
 
-### Persistant storage (files, database, etc)
+### Persistent storage (files, database, etc)
 
 *What data will persist after your module is finished? Is it writing data to files? Pushing to an API? If the information is sensitive, how are you ensuring it is stored securely? If you need to access the data again later, are you formatting it in a way which is easily accessible?*
 
